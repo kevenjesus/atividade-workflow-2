@@ -1,0 +1,26 @@
+{
+  "name": "certificacao-bootstrap",
+  "version": "1.0.0",
+  "description": "Curso de Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hclcortez/atividade-workflow.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "Hover Cortez Leite <hclcortez@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hclcortez/atividade-workflow.git/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-sass": "^3.0.0"
+  }
+}
